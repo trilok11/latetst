@@ -1,0 +1,196 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.852
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmailEngine", "EmailEngine\EmailEngine.csproj", "{B3681F5D-9DC2-493F-B5BA-C7FA47ECC1EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FederalHoliday", "FederalHoliday\FederalHoliday.csproj", "{AA627F73-8810-4909-B8B3-651335D88596}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StateHoliday", "StateHoliday\StateHoliday.csproj", "{B0C6C6B0-EA3B-4591-B4F6-B32283FFD120}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "USPSAddressValidation", "USPSAddressValidation\USPSAddressValidation.csproj", "{24CDCD88-3939-40B4-8F48-7D95172BA8E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NETEngine", "NETEngine\NETEngine.csproj", "{0AF6DD1B-7EBA-4C03-B6C3-D1E130BE9239}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckForRemovedUsers", "CheckForRemovedUsers\CheckForRemovedUsers.csproj", "{DC540068-688D-4183-B2E5-1CD32006E11B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MedicaidAddressServices", "MedicaidAddressServices\MedicaidAddressServices.csproj", "{D6766148-4A92-4ACC-9FCD-B78260C58133}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReturnFilesCompare", "ReturnFilesCompare\ReturnFilesCompare.csproj", "{748F4503-31E5-4575-ABCD-242735FEFF89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EBTReportGenerator", "EBTReportGenerator\EBTReportGenerator.csproj", "{4DCF0EA0-D962-4133-9EEC-08D2340BEEBE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReturnFiles", "ReturnFiles\ReturnFiles.csproj", "{2AA576F5-30F6-48EF-B407-B22838FC08B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FTPApplication", "FTPApplication\FTPApplication.csproj", "{63BFCE55-C0CE-42C3-855F-A2B5141F9270}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RunNETPaymentProcessing", "RunNETPaymentProcessing\RunNETPaymentProcessing.csproj", "{0A305F72-A593-41A6-BB6B-1AB6009437D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReRunExceptionsAndDenials", "ReRunExceptionsAndDenials\ReRunExceptionsAndDenials.csproj", "{DBFEC810-BA85-48E2-A2D5-7F12E5770E4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RunNETReports", "RunNETReports\RunNETReports.csproj", "{0668E7F4-0CC1-403E-B3BF-33B447170B24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NETApplication", "NETApplication\NETApplication.csproj", "{669CA5F0-69B4-4807-9A84-3966D83F6962}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MedicaidNETModel", "MedicaidNETModel\MedicaidNETModel.csproj", "{D23B49CB-5E62-4826-99B7-58A51287E41B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestEmail", "TestEmail\TestEmail.csproj", "{BC66725E-6EBE-4C93-8AC6-E41A4E886E35}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "COVID03Denials", "COVID03Denials\COVID03Denials.csproj", "{DDC5C203-D875-4A41-96CB-3D176D6307AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reversals03", "Reversals03\Reversals03.csproj", "{E4503021-9591-4BF6-9E2F-F1DF7B170502}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3681F5D-9DC2-493F-B5BA-C7FA47ECC1EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3681F5D-9DC2-493F-B5BA-C7FA47ECC1EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3681F5D-9DC2-493F-B5BA-C7FA47ECC1EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3681F5D-9DC2-493F-B5BA-C7FA47ECC1EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA627F73-8810-4909-B8B3-651335D88596}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA627F73-8810-4909-B8B3-651335D88596}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA627F73-8810-4909-B8B3-651335D88596}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA627F73-8810-4909-B8B3-651335D88596}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0C6C6B0-EA3B-4591-B4F6-B32283FFD120}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0C6C6B0-EA3B-4591-B4F6-B32283FFD120}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0C6C6B0-EA3B-4591-B4F6-B32283FFD120}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0C6C6B0-EA3B-4591-B4F6-B32283FFD120}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24CDCD88-3939-40B4-8F48-7D95172BA8E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24CDCD88-3939-40B4-8F48-7D95172BA8E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24CDCD88-3939-40B4-8F48-7D95172BA8E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24CDCD88-3939-40B4-8F48-7D95172BA8E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AF6DD1B-7EBA-4C03-B6C3-D1E130BE9239}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AF6DD1B-7EBA-4C03-B6C3-D1E130BE9239}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AF6DD1B-7EBA-4C03-B6C3-D1E130BE9239}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AF6DD1B-7EBA-4C03-B6C3-D1E130BE9239}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC540068-688D-4183-B2E5-1CD32006E11B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC540068-688D-4183-B2E5-1CD32006E11B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC540068-688D-4183-B2E5-1CD32006E11B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC540068-688D-4183-B2E5-1CD32006E11B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6766148-4A92-4ACC-9FCD-B78260C58133}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6766148-4A92-4ACC-9FCD-B78260C58133}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6766148-4A92-4ACC-9FCD-B78260C58133}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6766148-4A92-4ACC-9FCD-B78260C58133}.Release|Any CPU.Build.0 = Release|Any CPU
+		{748F4503-31E5-4575-ABCD-242735FEFF89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{748F4503-31E5-4575-ABCD-242735FEFF89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{748F4503-31E5-4575-ABCD-242735FEFF89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{748F4503-31E5-4575-ABCD-242735FEFF89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DCF0EA0-D962-4133-9EEC-08D2340BEEBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DCF0EA0-D962-4133-9EEC-08D2340BEEBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DCF0EA0-D962-4133-9EEC-08D2340BEEBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DCF0EA0-D962-4133-9EEC-08D2340BEEBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2AA576F5-30F6-48EF-B407-B22838FC08B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AA576F5-30F6-48EF-B407-B22838FC08B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AA576F5-30F6-48EF-B407-B22838FC08B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AA576F5-30F6-48EF-B407-B22838FC08B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63BFCE55-C0CE-42C3-855F-A2B5141F9270}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63BFCE55-C0CE-42C3-855F-A2B5141F9270}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63BFCE55-C0CE-42C3-855F-A2B5141F9270}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63BFCE55-C0CE-42C3-855F-A2B5141F9270}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A305F72-A593-41A6-BB6B-1AB6009437D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A305F72-A593-41A6-BB6B-1AB6009437D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A305F72-A593-41A6-BB6B-1AB6009437D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A305F72-A593-41A6-BB6B-1AB6009437D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBFEC810-BA85-48E2-A2D5-7F12E5770E4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBFEC810-BA85-48E2-A2D5-7F12E5770E4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBFEC810-BA85-48E2-A2D5-7F12E5770E4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBFEC810-BA85-48E2-A2D5-7F12E5770E4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0668E7F4-0CC1-403E-B3BF-33B447170B24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0668E7F4-0CC1-403E-B3BF-33B447170B24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0668E7F4-0CC1-403E-B3BF-33B447170B24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0668E7F4-0CC1-403E-B3BF-33B447170B24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{669CA5F0-69B4-4807-9A84-3966D83F6962}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{669CA5F0-69B4-4807-9A84-3966D83F6962}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{669CA5F0-69B4-4807-9A84-3966D83F6962}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{669CA5F0-69B4-4807-9A84-3966D83F6962}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D23B49CB-5E62-4826-99B7-58A51287E41B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D23B49CB-5E62-4826-99B7-58A51287E41B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D23B49CB-5E62-4826-99B7-58A51287E41B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D23B49CB-5E62-4826-99B7-58A51287E41B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC66725E-6EBE-4C93-8AC6-E41A4E886E35}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC66725E-6EBE-4C93-8AC6-E41A4E886E35}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC66725E-6EBE-4C93-8AC6-E41A4E886E35}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC66725E-6EBE-4C93-8AC6-E41A4E886E35}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDC5C203-D875-4A41-96CB-3D176D6307AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDC5C203-D875-4A41-96CB-3D176D6307AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDC5C203-D875-4A41-96CB-3D176D6307AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDC5C203-D875-4A41-96CB-3D176D6307AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4503021-9591-4BF6-9E2F-F1DF7B170502}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4503021-9591-4BF6-9E2F-F1DF7B170502}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4503021-9591-4BF6-9E2F-F1DF7B170502}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4503021-9591-4BF6-9E2F-F1DF7B170502}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D21DCF5-7679-4EE1-B3F9-034203E869AA}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 20
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://tfs.medicaid.al:8080/tfs/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = CheckForRemovedUsers\\CheckForRemovedUsers.csproj
+		SccProjectName1 = CheckForRemovedUsers
+		SccLocalPath1 = CheckForRemovedUsers
+		SccProjectUniqueName2 = EBTReportGenerator\\EBTReportGenerator.csproj
+		SccProjectName2 = EBTReportGenerator
+		SccLocalPath2 = EBTReportGenerator
+		SccProjectUniqueName3 = EmailEngine\\EmailEngine.csproj
+		SccProjectName3 = EmailEngine
+		SccLocalPath3 = EmailEngine
+		SccProjectUniqueName4 = FederalHoliday\\FederalHoliday.csproj
+		SccProjectName4 = FederalHoliday
+		SccLocalPath4 = FederalHoliday
+		SccProjectUniqueName5 = FTPApplication\\FTPApplication.csproj
+		SccProjectName5 = FTPApplication
+		SccLocalPath5 = FTPApplication
+		SccProjectUniqueName6 = MedicaidAddressServices\\MedicaidAddressServices.csproj
+		SccProjectName6 = MedicaidAddressServices
+		SccLocalPath6 = MedicaidAddressServices
+		SccProjectUniqueName7 = MedicaidNETModel\\MedicaidNETModel.csproj
+		SccProjectName7 = MedicaidNETModel
+		SccLocalPath7 = MedicaidNETModel
+		SccProjectUniqueName8 = NETApplication\\NETApplication.csproj
+		SccProjectName8 = NETApplication
+		SccLocalPath8 = NETApplication
+		SccProjectUniqueName9 = NETEngine\\NETEngine.csproj
+		SccProjectName9 = NETEngine
+		SccLocalPath9 = NETEngine
+		SccProjectUniqueName10 = ReRunExceptionsAndDenials\\ReRunExceptionsAndDenials.csproj
+		SccProjectName10 = ReRunExceptionsAndDenials
+		SccLocalPath10 = ReRunExceptionsAndDenials
+		SccProjectUniqueName11 = ReturnFiles\\ReturnFiles.csproj
+		SccProjectName11 = ReturnFiles
+		SccLocalPath11 = ReturnFiles
+		SccProjectUniqueName12 = ReturnFilesCompare\\ReturnFilesCompare.csproj
+		SccProjectName12 = ReturnFilesCompare
+		SccLocalPath12 = ReturnFilesCompare
+		SccProjectUniqueName13 = RunNETPaymentProcessing\\RunNETPaymentProcessing.csproj
+		SccProjectName13 = RunNETPaymentProcessing
+		SccLocalPath13 = RunNETPaymentProcessing
+		SccProjectUniqueName14 = RunNETReports\\RunNETReports.csproj
+		SccProjectName14 = RunNETReports
+		SccLocalPath14 = RunNETReports
+		SccProjectUniqueName15 = StateHoliday\\StateHoliday.csproj
+		SccProjectName15 = StateHoliday
+		SccLocalPath15 = StateHoliday
+		SccProjectUniqueName16 = TestEmail\\TestEmail.csproj
+		SccProjectName16 = TestEmail
+		SccLocalPath16 = TestEmail
+		SccProjectUniqueName17 = USPSAddressValidation\\USPSAddressValidation.csproj
+		SccProjectName17 = USPSAddressValidation
+		SccLocalPath17 = USPSAddressValidation
+		SccProjectUniqueName18 = COVID03Denials\\COVID03Denials.csproj
+		SccProjectName18 = COVID03Denials
+		SccLocalPath18 = COVID03Denials
+		SccProjectUniqueName19 = Reversals03\\Reversals03.csproj
+		SccProjectName19 = Reversals03
+		SccLocalPath19 = Reversals03
+	EndGlobalSection
+EndGlobal
